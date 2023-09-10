@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Andrei+Barbuto;I'm+26+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-
+![snake animation](https://github.com/<AndreiBrl>/<AndreiBrl>/blob/output/github-contribution-grid-snake2.svg)
 
 
 # 📊 GitHub Stats:
