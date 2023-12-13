@@ -4,13 +4,7 @@
 
 
 # 📊 GitHub Stats:
-<div align="center">  
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndreiBrl&theme=radical&hide_border=true" alt="GitHub Streak" />
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AndreiBrl&show_icons=true&count_private=true&hide_border=true&title_color=ffd889&icon_color=ffd889&text_color=c9d1d9&bg_color=0d1117" alt="Andrei Barbuto github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiBrl&layout=compact&hide_border=true&title_color=ffd889&text_color=ff91a4&bg_color=0d1117" />
-</div>
 
 <div align="center"> 
 <a href = "mailto:cmp.1a.barbutodev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
