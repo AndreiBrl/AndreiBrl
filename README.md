@@ -2,9 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffd889&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Andrei+Barbuto;I'm+29+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
-![Andrei's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AndreiBrl&bg_color=0D1117&color=4C71F2&line=4C71F2&point=FFFFFF&hide_border=true)
-
  
  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
