@@ -3,7 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffd889&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Andrei+Barbuto;I'm+29+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-![snake gif](https://github.com/AndreiBrl/AndreiBrl/blob/output/github-contribution-grid-snake.svg)
+[![Contribuições no GitHub](https://github-readme-stats.vercel.app/api?username=AndreiBrl_usuario&show_icons=true&theme=radical)](https://github.com/AndreiBrl)
+
  
  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
